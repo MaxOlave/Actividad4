@@ -1,0 +1,76 @@
+.container{
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.header
+{
+ position: relative;
+ background-color: red;
+ width: 100%;
+ height: 350px;
+ background-image: url("file:///home/olavemax/Escritorio/Clase4/E2CP2A1-master/images/bg.jpeg");
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+}
+
+.body
+{
+ position: relative;
+ background-color: green;
+ width: 100%;
+ height: 600px;
+}
+
+.footer{
+	position: relative;
+	background-color: black;
+	width: 100%;
+	height: 40px;
+}
+
+.logo{
+	width: 15%;
+	height: 50px;
+	background-image: url("file:///home/olavemax/Escritorio/Clase4/E2CP2A1-master/images/latam_logo.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.navegacion
+{
+	position: relative;
+	width: 50%;
+	float: right;
+}
+
+.inline
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+nav{
+	float: right;
+}
+
+
+.texto-header
+{
+	width:100%;
+	height: 200px;
+}
+
+.texto-header h1{
+	color: white;
+	font-size: 44px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Arial;
+}
+
+.botones-header
+{
+	
+}
